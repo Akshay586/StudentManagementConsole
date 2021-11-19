@@ -1,0 +1,10 @@
+ADD, Akshat Rathore, 0704CS181017, 20 , 3, RR, AR
+ADD, Akshay Rathore, 0712CS181007, 27 , 4, RR, AR
+ADD, Shreyoshi Mukhrjee, 0712CS181008, 28, 4, TM, MM
+ADD, Tiasha Mukhrjee, 0708LW181030, 24, 5, TM, MM
+ADD, Gal Gadot, 0770AC181716, 30, 4, XY,YZ
+DELETE, Akshay Rathore, 0712CS181007, 27 , 4, RR, AR
+DELETE, Tiasha Mukhrjee, 0708LW181030, 24, 5, TM, MM
+FIND, Stu_id, 0704CS181017
+FIND, name, Shreyoshi Mukhrjee
+UPDATE, 0770AC181716,name, Rachel Adams
